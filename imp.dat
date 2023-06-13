@@ -1,0 +1,5 @@
+.T.       !!! is_particle
+3         !!! k
+1.d0      !!! dOmega
+1.6d-1     !!! delta
+10.d-1      !!! e
